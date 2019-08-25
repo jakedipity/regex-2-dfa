@@ -1,0 +1,14 @@
+{
+  "name": "regex-2-dfa",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Hull",
+  "license": "ISC",
+  "dependencies": {
+    "finite-automata": "git+https://github.com/jakedipity/finite-automata.git"
+  }
+}
